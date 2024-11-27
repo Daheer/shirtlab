@@ -11,7 +11,7 @@ const OrderReceivedEmail = ({
   orderDate: String
 }) => {
 
-  const baseUrl = process.env.NODE_ENV === "development" ? "http://localhost:3000" : "https://casecobra-kappa-one.vercel.app"
+  const baseUrl = process.env.NODE_ENV === "development" ? "http://localhost:3000" : "https://shirtlab.vercel.app"
 
   return (
     <Html>
