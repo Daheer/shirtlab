@@ -453,6 +453,7 @@ const DesignConfigurator = ({
                   saveConfig({
                     configId,
                     color: options.color.value,
+                    size: options.size.value,
                     finish: options.finish.value,
                     material: options.material.value,
                     model: options.model.value,

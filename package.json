@@ -1,5 +1,5 @@
 {
-  "name": "casecobra",
+  "name": "shirtlab",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,8 +29,6 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "framer-motion": "^11.2.6",
-    "kinde-auth-nextjs@2.2.2.4": "link:kinde-oss/kinde-auth-nextjs@2.2.2.4",
-    "kinde-auth-nextjs@2.2.4": "link:kinde-oss/kinde-auth-nextjs@2.2.4",
     "lucide-react": "^0.379.0",
     "next": "14.2.3",
     "prisma": "^5.21.1",
@@ -39,7 +37,6 @@
     "react-dom-confetti": "^0.2.0",
     "react-dropzone": "^14.2.9",
     "react-rnd": "^10.4.13",
-    "react@6.1.0": "link:uploadthing/react@6.1.0",
     "resend": "4.0.1-alpha.0",
     "sharp": "0.32.6",
     "stripe": "^17.2.1",

@@ -44,7 +44,7 @@ enum ShirtSize {
 enum CaseColor {
   black
   blue
-  rose
+  white
 }
 
 model Configuration {
